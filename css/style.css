@@ -1,0 +1,164 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+a{
+    text-decoration: none;
+}
+h1{
+    font-size: 40px;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 700;
+    color: deeppink;
+    
+}
+h3{
+    font-size: 30px;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 700;
+    color:#000;
+    padding-top: 120px;
+}
+p{
+    font-size: 16px;
+    color: gray;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+    line-height: 30px;
+    margin-bottom: 50px;
+}
+.width-half{
+    width:40%;
+    margin-left:10%;
+    float: left;
+    margin-top: 20px;
+}
+
+.width-half img{
+   width: 100%;
+}
+.mr{
+    margin-left:3%;
+    margin-top: 0px;
+}
+section{
+    height: 650px;
+    margin-bottom: 50px;
+}
+/*banner part*/
+#top-banner{
+    background-image: url(../image/header-bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.link-btn{
+    
+    background-color: deeppink;
+    color: #fff;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top:20px;
+    padding-bottom: 20px;
+    border-radius: 10px;
+}
+/*bio part*/
+#bio-bg{
+    background-image: url(../image/biography-bg.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.single-bio{
+    padding-right:2%;
+    padding-left: 0;
+    margin-left: 0;
+}
+.single-bio h2{
+    font-size: 30px;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 700;
+    color:#000;
+    padding-top:70px;
+   
+}
+/*work part*/
+#work-bg{
+    background-image: url(../image/latest-work-bg.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 30px -160px ;
+}
+.work{
+    width: 80%;
+    margin-left:10%;
+    float: left;
+    margin-top: 20px;
+}
+.work-head{
+    text-align: center;
+    font-size: 30px;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 700;
+    color:#000;
+}
+.single-img{
+    width:30%;
+    margin-right:5%;
+    float: left;
+}
+.single-img img{
+    width: 100%;
+}
+.mr-img{
+    margin-right: 0;
+}
+/*=====client say part css*/
+#client-bg
+{
+    background-image: url(../image/footer-bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: -20px;
+}
+.client-head{
+    text-align: center;
+    font-size: 30px;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 700;
+    color:#000;
+}
+.client-say{
+    width: 50%;
+    margin:0 auto;
+    text-align: center;
+}
+.client-say h5{
+    line-height: 24px;
+    color: rgba(0, 0, 0, 0.836);
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+}
+#message {
+    padding:30px 60px 50px 60px;
+    background-color:deeppink;
+    border-radius: 10px;
+}
+#message h6{
+    color: #fff;
+    font-size: 16px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+}
+#message a{
+    text-decoration: none;
+    font-size: 30px;
+    color: #fff;
+    padding-bottom: 10px;
+}
+footer{
+    text-align: center;
+    background-color:rgb(189, 181, 181);
+    padding: 25px;
+}
+footer a{
+    color:deeppink;
+}
