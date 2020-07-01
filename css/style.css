@@ -7,9 +7,9 @@ a{
 }
 h1{
     font-size: 40px;
-    font-family: 'Raleway', sans-serif;
+    font-family:'Raleway', sans-serif;
     font-weight: 700;
-    color: deeppink;
+    color:#fe346e;
     
 }
 h3{
@@ -53,7 +53,7 @@ section{
 }
 .link-btn{
     
-    background-color: deeppink;
+    background-color:#fe346e;
     color: #fff;
     padding-left: 50px;
     padding-right: 50px;
@@ -117,7 +117,7 @@ section{
     background-image: url(../image/footer-bg.png);
     background-repeat: no-repeat;
     background-size: cover;
-    background-position: -20px;
+    background-position:-20px;
 }
 .client-head{
     text-align: center;
@@ -138,8 +138,8 @@ section{
     font-weight: 500;
 }
 #message {
-    padding:30px 60px 50px 60px;
-    background-color:deeppink;
+    padding:10px 60px 30px 60px;
+    background-color:#fe346e;
     border-radius: 10px;
 }
 #message h6{
@@ -152,7 +152,7 @@ section{
     text-decoration: none;
     font-size: 30px;
     color: #fff;
-    padding-bottom: 10px;
+    padding-bottom:10px;
 }
 footer{
     text-align: center;
@@ -160,5 +160,5 @@ footer{
     padding: 25px;
 }
 footer a{
-    color:deeppink;
+    color:#fe346e;
 }
